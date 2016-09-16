@@ -11,6 +11,6 @@ You can find the latest version here: https://github.com/Thypari/R6S-MapViewer/r
 ## Can I help?
 If you have better pictures of maps or the missing maps, just shot me a message.
 
-#### TO-DO:
+## TO-DO for the next version:
 2. Settings to change the buttons
 1. Automatically change to the current map while loading in-game
