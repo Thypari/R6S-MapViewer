@@ -8,6 +8,8 @@ It uses all pictures in the res folder, so you can add your own pictures of maps
 
 You can find the latest version here: https://github.com/Thypari/R6S-MapViewer/releases
 
+You need Java or else the program won't start: https://java.com/en/download/
+
 ## Can I help?
 If you have better pictures of maps or the missing maps, just shot me a message.
 
