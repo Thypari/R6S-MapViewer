@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="R6S-MapViewer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/R6S_MapViewer_jar</output-path>
+    <root id="archive" name="R6S-MapViewer.jar">
+      <element id="module-output" name="R6S-MapViewer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/system-hook-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jgoodies-forms.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jgoodies-common.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
