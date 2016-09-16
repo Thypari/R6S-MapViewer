@@ -8,6 +8,9 @@ It uses all pictures in the res folder, so you can add your own pictures of maps
 
 You can find the latest version here: https://github.com/Thypari/R6S-MapViewer/releases
 
+## Can I help?
+If you have better pictures of maps or the missing maps, just shot me a message.
+
 #### TO-DO:
 2. Settings to change the buttons
 1. Automatically change to the current map while loading in-game
