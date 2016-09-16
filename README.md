@@ -7,7 +7,7 @@ While playing Rainbow Six: Siege you can open the MapViewer on a different scree
 It uses all pictures in the res folder, so you can add your own pictures of maps. It has a global hook for the left and right buttons of the keyboard, so you can switch layout while you are in Rainbow Six: Siege.
 
 ## Requirements
-You need Java or else the program won't start: https://java.com/en/download/
+In case the program doesn't start, you need to install Java: https://java.com/en/download/
 
 ## Download
 You can find the latest version here: https://github.com/Thypari/R6S-MapViewer/releases
